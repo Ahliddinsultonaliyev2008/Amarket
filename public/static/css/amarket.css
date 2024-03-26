@@ -1,0 +1,38 @@
+
+.topbar{
+    height: 100px;
+
+}
+
+body{
+    background-color: #f8f4f4;
+}
+
+a{
+    text-decoration:none;
+    color: #0f7b42;
+}
+
+a:hover{
+    color: #0de289;
+}
+.active{
+    color: #0de289;
+    text-decoration: underline;
+}
+i{
+    color: #1aad61;
+}
+h3{
+    color: #1d754a;
+}
+h6{
+    color: #2b5e4b;
+}
+h1{
+    color: #09804e;
+}
+
+h1:hover{
+    color: #0de289;
+}
